@@ -3,6 +3,8 @@
 **Six Processing studies about urban encounters, historical change, perception, music data, and memory.**  
 Course portfolio, March–May 2026 · Yi (Raya) Ru
 
+![Final Urban Groove Skyline output](assets/Urban-Groove-Skyline-preview.png)
+
 ## Featured work
 
 The later studies show the progression from responsive visual systems to data mapping and simulation. These are output images from the projects; the [full illustrated portfolio](assets/City-as-System-final-portfolio.pdf) documents all six.
@@ -14,8 +16,6 @@ The later studies show the progression from responsive visual systems to data ma
 One image becomes about 2,500 particles. Cursor position changes stress, energy, order, and warmth, while each particle retains a home position. [Browse the sketch](prototype/04_City_Four_Lenses/Citythrough4lenses/Citythrough4lenses.pde).
 
 ### 5. Urban Groove Skyline — music data as architecture
-
-![Final Urban Groove Skyline output](assets/Urban-Groove-Skyline-preview.png)
 
 A twenty-track dataset drives building height, width, roof character, glow, and activity. [Browse the sketch and synthetic data](prototype/05_Urban_Groove_Skyline/Urban_Skyline).
 
