@@ -1,28 +1,29 @@
 # The City as System
 
-The City as System is a series of six computational art studies that use generative rules, image transformation, data mapping, and sound to explore urban space and memory.
+**Six Processing studies about urban encounters, historical change, perception, music data, and memory.**  
+Course portfolio, March–May 2026 · Yi (Raya) Ru
 
-## Selected studies
+## Project premise
 
-- A generative Shanghai Metro simulation combining train movement, sound, and personal imagery
-- An interactive urban image composed of approximately 2,500 particles
-- A dynamic city skyline generated from data drawn from 20 songs
+I used code to model what a city *does* rather than simply illustrate what it looks like. Each study defines rules, thresholds, mappings, or interactions, then lets a visual or audiovisual system unfold. Across the series, the city becomes both a public structure and a place for personal experience.
 
-## My role
+## Six studies
 
-- Developed the project concepts and visual systems
-- Built six computational prototypes
-- Translated urban observations and personal memory into rules, motion, data mappings, and audiovisual interactions
+| Study | Interaction and computational idea |
+| --- | --- |
+| **1. When We Meet** | Four translucent paths drift across a night canvas. Proximity creates colored squares at unexpected encounters. The piece runs for one minute, saves an image, and stops. |
+| **2. The Universe Beneath the Grid** | A rigid binary-and-gear grid gives way to an interactive mode where a viewer “burns” away an overlay to reveal a poem. Original and glitch audio distinguish the two modes. |
+| **3. Sliding Through A Hundred-Year Train** | A slider moves through four historical readings of Jiaxing Railway Station: 1907 pixelation, 1937 RGB glitch, 1990s vertical displacement, and a fade into the 2021 station. Image transformation carries the narrative of memory and reconstruction. |
+| **4. City Through Four Lenses** | One city image becomes approximately 2,500 particles. Cursor position adjusts stress, energy, order, and warmth, changing motion and color while each particle retains a home position. |
+| **5. Urban Groove Skyline** | A 20-track Spotify dataset becomes a cityscape. Popularity maps to building height, duration to width, valence to roof form and glow, energy to flicker and particles, and release date to skyline order. |
+| **6. Conducting the Underground Symphony** | A generative Shanghai Metro simulation combines train routes, arrival tones, passenger agents, and station-linked personal photographs. Memory appears at moments determined by the system's movement. |
 
-## Current status
+## What I made and learned
 
-This repository currently presents portfolio documentation. Source files and media will be added only after they are selected and approved for public release.
+I developed the concepts, built the Processing sketches, selected images and sound, and iterated the rules until the interactions supported each work's idea. The work moved from generative encounters and participatory transformation to data mapping and simulation. A recurring design decision was to give every parameter a reason: for example, a historical image effect should express a particular period, and a music feature should shape a readable part of the skyline.
 
-## Repository structure
+The final course portfolio, *The City as System: Code, Memory, and the Aesthetics of Urban Encounter*, documents the six projects and reflects on authorship in rule-based art.
 
-- `assets/` — reserved for approved still images and process documentation
-- `prototype/` — reserved for approved interactive or video exports
+## Status and repository contents
 
-## Tools and methods
-
-Processing · generative art · data visualization · image transformation · sound interaction
+These six studies were completed as a course portfolio. This public repository currently provides selected portfolio documentation. The local course folder holds Processing sketches, project journals, images, audio, and the final essay; those files are not all published here. Some media includes third-party material, so selected assets and code will be added only after review for public sharing.
