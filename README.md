@@ -26,4 +26,4 @@ The final course portfolio, *The City as System: Code, Memory, and the Aesthetic
 
 ## Status and repository contents
 
-These six studies were completed as a course portfolio. This public repository currently provides selected portfolio documentation. The local course folder holds Processing sketches, project journals, images, audio, and the final essay; those files are not all published here. Some media includes third-party material, so selected assets and code will be added only after review for public sharing.
+These six studies were completed as a course portfolio. Download the [six Processing sketches and synthetic skyline data](City-as-System-Processing-source.zip), read the [illustrated final portfolio](City-as-System-final-portfolio.pdf), or view the [When We Meet preview](When-We-Meet-preview.png). Open each `.pde` in Processing. Several sketches need replacement photos, audio, video, or poem imagery to reproduce the original exhibition; commercial recordings and other third-party media are not included.
