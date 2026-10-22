@@ -3,6 +3,28 @@
 **Six Processing studies about urban encounters, historical change, perception, music data, and memory.**  
 Course portfolio, March–May 2026 · Yi (Raya) Ru
 
+## Featured work
+
+The later studies show the progression from responsive visual systems to data mapping and simulation. These are output images from the projects; the [full illustrated portfolio](assets/City-as-System-final-portfolio.pdf) documents all six.
+
+### 4. City Through Four Lenses — interaction as perception
+
+![Four ambient modes of the particle-city system](assets/City-Four-Lenses-preview.png)
+
+One image becomes about 2,500 particles. Cursor position changes stress, energy, order, and warmth, while each particle retains a home position. [Browse the sketch](prototype/04_City_Four_Lenses/Citythrough4lenses/Citythrough4lenses.pde).
+
+### 5. Urban Groove Skyline — music data as architecture
+
+![Final Urban Groove Skyline output](assets/Urban-Groove-Skyline-preview.png)
+
+A twenty-track dataset drives building height, width, roof character, glow, and activity. [Browse the sketch and synthetic data](prototype/05_Urban_Groove_Skyline/Urban_Skyline).
+
+### 6. Conducting the Underground Symphony — simulation and memory
+
+![Shanghai Metro simulation showing routes and passenger agents](assets/Underground-Symphony-preview.png)
+
+Train movement, station events, sound, passenger behavior, and personal imagery form a rule-based metro experience. [Browse the sketch](prototype/06_Underground_Symphony/ConductingUndergroundSymphony/ConductingUndergroundSymphony.pde).
+
 ## Project premise
 
 I used code to model what a city *does* rather than simply illustrate what it looks like. Each study defines rules, thresholds, mappings, or interactions, then lets a visual or audiovisual system unfold. Across the series, the city becomes both a public structure and a place for personal experience.
@@ -26,4 +48,4 @@ The final course portfolio, *The City as System: Code, Memory, and the Aesthetic
 
 ## Status and repository contents
 
-These six studies were completed as a course portfolio. Download the [six Processing sketches and synthetic skyline data](City-as-System-Processing-source.zip), read the [illustrated final portfolio](City-as-System-final-portfolio.pdf), or view the [When We Meet preview](When-We-Meet-preview.png). Open each `.pde` in Processing. Several sketches need replacement photos, audio, video, or poem imagery to reproduce the original exhibition; commercial recordings and other third-party media are not included.
+These six studies were completed as a course portfolio. [Browse all six Processing sketches](prototype), download the [source ZIP](City-as-System-Processing-source.zip), or read the [illustrated final portfolio](assets/City-as-System-final-portfolio.pdf). The first work remains available as a [When We Meet preview](assets/When-We-Meet-preview.png). Open each `.pde` in Processing. Several sketches need replacement photos, audio, video, or poem imagery to reproduce the original exhibition; commercial recordings and other third-party media are not included.

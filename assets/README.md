@@ -1,3 +1,9 @@
 # Assets
 
-The [final illustrated portfolio PDF](../City-as-System-final-portfolio.pdf) documents all six studies. The [When We Meet preview](../When-We-Meet-preview.png) shows one generated output. The source sketches are in the [public Processing package](../City-as-System-Processing-source.zip). Commercial audio and other third-party media are not included.
+## Featured output images
+
+- [City Through Four Lenses](City-Four-Lenses-preview.png) — four states of the responsive particle system.
+- [Urban Groove Skyline](Urban-Groove-Skyline-preview.png) — final data-driven cityscape.
+- [Conducting the Underground Symphony](Underground-Symphony-preview.png) — metro simulation with routes and passenger agents.
+
+The [final illustrated portfolio](City-as-System-final-portfolio.pdf) covers all six projects. The [When We Meet preview](When-We-Meet-preview.png) documents the opening study. Commercial recordings and other third-party media are not included.

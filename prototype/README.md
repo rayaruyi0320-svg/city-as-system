@@ -1,3 +1,3 @@
 # Prototype
 
-The [public Processing source package](../City-as-System-Processing-source.zip) contains all six original sketches and a synthetic CSV for Urban Groove Skyline. Open each `.pde` in Processing. Some sketches need replacement photos, audio, video, or a poem image to reproduce the original exhibition. See the [final illustrated portfolio](../City-as-System-final-portfolio.pdf) for the completed visual results.
+Six original Processing sketches are organized by study in this folder. Open a `.pde` file in Processing. [Public source notes](PUBLIC_SOURCE_README.md) explain dependencies and the synthetic skyline dataset. Some sketches require replacement photographs, music, video, or a poem image to run as originally exhibited.
